@@ -1,0 +1,14 @@
+D:\codes\work\first\SixthApp\SixthApp\bin\Debug\net6.0\TransportNetworkSimulation.exe
+D:\codes\work\first\SixthApp\SixthApp\bin\Debug\net6.0\TransportNetworkSimulation.deps.json
+D:\codes\work\first\SixthApp\SixthApp\bin\Debug\net6.0\TransportNetworkSimulation.runtimeconfig.json
+D:\codes\work\first\SixthApp\SixthApp\bin\Debug\net6.0\TransportNetworkSimulation.dll
+D:\codes\work\first\SixthApp\SixthApp\bin\Debug\net6.0\TransportNetworkSimulation.pdb
+D:\codes\work\first\SixthApp\SixthApp\obj\Debug\net6.0\TransportNetworkSimulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\work\first\SixthApp\SixthApp\obj\Debug\net6.0\TransportNetworkSimulation.AssemblyInfoInputs.cache
+D:\codes\work\first\SixthApp\SixthApp\obj\Debug\net6.0\TransportNetworkSimulation.AssemblyInfo.cs
+D:\codes\work\first\SixthApp\SixthApp\obj\Debug\net6.0\TransportNetworkSimulation.csproj.CoreCompileInputs.cache
+D:\codes\work\first\SixthApp\SixthApp\obj\Debug\net6.0\TransportNetworkSimulation.dll
+D:\codes\work\first\SixthApp\SixthApp\obj\Debug\net6.0\refint\TransportNetworkSimulation.dll
+D:\codes\work\first\SixthApp\SixthApp\obj\Debug\net6.0\TransportNetworkSimulation.pdb
+D:\codes\work\first\SixthApp\SixthApp\obj\Debug\net6.0\TransportNetworkSimulation.genruntimeconfig.cache
+D:\codes\work\first\SixthApp\SixthApp\obj\Debug\net6.0\ref\TransportNetworkSimulation.dll

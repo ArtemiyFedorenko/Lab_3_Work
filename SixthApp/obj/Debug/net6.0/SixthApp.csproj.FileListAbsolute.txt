@@ -1,0 +1,14 @@
+D:\codes\work\first\SixthApp\SixthApp\bin\Debug\net6.0\SixthApp.exe
+D:\codes\work\first\SixthApp\SixthApp\bin\Debug\net6.0\SixthApp.deps.json
+D:\codes\work\first\SixthApp\SixthApp\bin\Debug\net6.0\SixthApp.runtimeconfig.json
+D:\codes\work\first\SixthApp\SixthApp\bin\Debug\net6.0\SixthApp.dll
+D:\codes\work\first\SixthApp\SixthApp\bin\Debug\net6.0\SixthApp.pdb
+D:\codes\work\first\SixthApp\SixthApp\obj\Debug\net6.0\SixthApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\work\first\SixthApp\SixthApp\obj\Debug\net6.0\SixthApp.AssemblyInfoInputs.cache
+D:\codes\work\first\SixthApp\SixthApp\obj\Debug\net6.0\SixthApp.AssemblyInfo.cs
+D:\codes\work\first\SixthApp\SixthApp\obj\Debug\net6.0\SixthApp.csproj.CoreCompileInputs.cache
+D:\codes\work\first\SixthApp\SixthApp\obj\Debug\net6.0\SixthApp.dll
+D:\codes\work\first\SixthApp\SixthApp\obj\Debug\net6.0\refint\SixthApp.dll
+D:\codes\work\first\SixthApp\SixthApp\obj\Debug\net6.0\SixthApp.pdb
+D:\codes\work\first\SixthApp\SixthApp\obj\Debug\net6.0\SixthApp.genruntimeconfig.cache
+D:\codes\work\first\SixthApp\SixthApp\obj\Debug\net6.0\ref\SixthApp.dll
